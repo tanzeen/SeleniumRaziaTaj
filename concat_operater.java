@@ -1,7 +1,7 @@
 package sits;
 // putting comment
 public class concat_operater {
-//comment insert
+//comment inserted
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
